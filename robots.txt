@@ -1,1 +1,1 @@
-nofollo,noindex
+nofollow,noindex
